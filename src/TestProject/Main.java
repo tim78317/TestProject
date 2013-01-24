@@ -18,7 +18,7 @@ public class Main {
         age = Double.parseDouble(input);
         
         
-        JOptionPane.showMessageDialog(null, "WOW you are OLD!!!" + "Your " + age + "Years old!!!");
+        JOptionPane.showMessageDialog(null, "WOW you are OLD!!! " + "\n Your " + age + " Years old!!!");
         
         
     }
