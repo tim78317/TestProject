@@ -12,7 +12,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        double age = 0;
+        double age;
        
         String input = JOptionPane.showInputDialog("How old are you?");
         age = Double.parseDouble(input);
